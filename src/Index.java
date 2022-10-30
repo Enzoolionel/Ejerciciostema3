@@ -1,6 +1,6 @@
 public class Index {
     public static void main(String[] args){
-        Persona Persona0 = new Persona();
+        Persona1 Persona0 = new Persona1();
 
         Persona0.setNombre("Enzo Peralta");
         Persona0.setEdad(27);
@@ -12,7 +12,7 @@ public class Index {
 
     }
 }
-class Persona{
+class Persona1{
     private String nombre;
     private int edad;
     private long telefono;
